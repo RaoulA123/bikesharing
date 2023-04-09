@@ -7,38 +7,43 @@ In order to fulfill this project, we are going to create some visualizations usi
 
 ## Results
 
-We used the data to create 7 different visualizations to help evaluate, describe and and present DM BikeShare.
+We used the data to create 7 different visualizations to help evaluate, describe and present DM BikeShare.
 
 1.![Check out Times for Users](https://user-images.githubusercontent.com/115424156/230755329-8b4d4e04-28d4-4395-86c8-59c410ff78a4.png)
 
-During this visualization, we are able to show the time break used for checking out all bikes for the riders. 	
+This visualization helped show the number of bikes checked out by duration for all users.  	
 
-2. ![Checkout Times by Gender](https://user-images.githubusercontent.com/115424156/230755378-d1ab647b-47a6-4714-8f4b-711fbf022d9c.png)
 
-In this visualization, we show the time break used for checking out all bikes for the riders according to their gender. 	
+2.![Checkout Times by Gender](https://user-images.githubusercontent.com/115424156/230755378-d1ab647b-47a6-4714-8f4b-711fbf022d9c.png)
+
+In this visualization, we show the number of bikes checked out by duration for all users allocated by gender.
+
+
 
 3. ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/115424156/230755416-90a613d3-5d63-4ba4-a10c-cec338dd20cb.png)
 
 In this visualization, we are able to show through a heatmap which is the most common hours during weekdays when riders use bikes the most.
 
+
 4. ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/115424156/230755435-bf0f0d06-385a-423c-80f2-427baa23dc0b.png)
 
 This visualization, we demonstrated through a heatmap which is the most common hours during weekdays when riders, classifying them by their genders, use bikes the most.
+
 
 5. ![Trips by Gender (Weekday )](https://user-images.githubusercontent.com/115424156/230755446-6760e004-9f5e-4779-9204-e4d53c8aefc5.png)
 
 This case, we create a heatmap that shows the number of bike trips according to gender and user type that riders have by each day of the week.
 
-6. With this visualization, we are able to show through the density of color and size of the figure which are the most common places where riders start their bike trip. 
+6. ![Top Starting Location](https://user-images.githubusercontent.com/115424156/230756369-cd7c0652-295a-4a55-89bf-876f4b0afd36.png)
 
-7. ing this visualization, on the contrary, we are able to show through the density of color and size of the figure which are the most common places where riders end their bike trip. 
+With this visualization, we determine the most active zone where bikes are picked up. This should inform Kate for find similar area in Des Moines. 
+
+![Top Ending Locations](https://user-images.githubusercontent.com/115424156/230756362-5ef8bf0a-a492-45be-9080-de109d6c20b8.png)
+
+7. In this visualiztion, we determined the top end points for bike rides. Similar , to the point indicated above, Kate should investigate further and detrmine why these are the top destinations and either replicate that in Des Moines or evalaute if this might present an other investement opportunity. ske trip. 
 
 ## Summary
+Through this project, we provided in visual ways, how Kate can convince the investor to fund her project. Since NYC is used as the model here, it should be determined why more bikes are picked up in one area as opposed to another. Similarly, why are bikes dropped off more in an area vis-a-vis another. These should inform Kate as to any secondary factor that would help her business become succesful ( if she receives the investement) as well help determine is there are other investment opportunities since through this project she has been able to indirectly calculate consummer availability ( consumer traffic) in various areas.
 
-Finally, we have created two more data visualizations that can be of help to Kate in case she wants to use them. 
 
-In this visualization, we show the birthdate and gender of riders so we can determine when which gender started using a bike and the distances they ride them.
-
-This visualization, on the other hand, can be used to show investors which bikes have been used the most so they know when is almost the time to replace or repair them. 
-
-The following link leed to the tableau dashboad. 
+to the tableau dashboad. 
