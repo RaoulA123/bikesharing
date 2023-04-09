@@ -47,4 +47,4 @@ With this visualization, we determine the most active zone where bikes are picke
 Through this project, we provided in visual ways, how Kate can convince the investor to fund her project. Since NYC is used as the model here, it should be determined why more bikes are picked up in one area as opposed to another. Similarly, why are bikes dropped off more in an area vis-a-vis another. These should inform Kate as to any secondary factor that would help her business become succesful ( if she receives the investement) as well help determine is there are other investment opportunities since through this project she has been able to indirectly calculate consummer availability ( consumer traffic) in various areas.
 
 
-Link to the tableau dashboad. 
+(Optional) Link to the tableau dashboad. 
