@@ -1,8 +1,9 @@
-# Bikesharing-Project
+# Bikesharing Project
 
 ## Overview of the Project
 
 The purpose of this challenge is to help kate, create a presentation that will convince an investor who will invest in a bike sharing program ( DM BikeShare ) in Des Moines, Iowa,  similar to similar program in New York City named CitiBike.  This program will not offer just a cheaper and more relaxed way to travel around the city but give people a more eco-friendly option to reach their destination.
+
 In order to fulfill this project, we are going to create some visualizations using Tableau which will help Kate demonstrate the most important points to talk about during a presentation.
 
 ## Results
